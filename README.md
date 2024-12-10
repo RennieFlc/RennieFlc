@@ -1,8 +1,8 @@
 ### Hi there 👋 This is Rennie a.k.a Negar Chamani.
 
-I am currently a 3rd year Computer Engineering student.
+I am currently a Senior year Computer Engineering student.
 
-I am mostly passionate about Computer Network and Mobile Application/Web Development.
+I am mostly passionate about Computer Network,Image Processing and Mobile Application development.
 
 Last but not least, I am also interested in Computer Hardware and trying to improve my skills both in Software and Hardware:)
 
